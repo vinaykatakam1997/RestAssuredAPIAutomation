@@ -1,0 +1,3060 @@
+2022-12-02 14:21:52 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-02 14:22:44 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-02 14:22:50 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-02 14:22:50 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-02 14:22:50 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-02 14:22:50 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-02 14:22:50 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-02 14:22:50 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-02 14:22:50 INFO  UsersRestAPI:41 - Response time is =2616
+2022-12-02 14:22:50 WARN  UsersRestAPI:43 - Response time is greater than 2000
+2022-12-02 14:22:50 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-02 14:22:50 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-02 14:22:50 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-02 14:22:50 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-02 16:26:55 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-02 16:27:04 INFO  UsersRestAPI:73 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-02 16:29:02 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-02 16:29:09 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusg",
+    "salary": "67490",
+    "age": "07124",
+    "id": "421",
+    "createdAt": "2022-12-02T10:59:06.609Z"
+}
+2022-12-02 16:29:09 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-02 16:31:51 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-02 16:31:58 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusQ",
+    "salary": "29961",
+    "age": "84",
+    "id": "287",
+    "createdAt": "2022-12-02T11:01:55.669Z"
+}
+2022-12-02 16:31:58 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-02 17:27:59 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-02 17:28:06 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusi",
+    "salary": "90424",
+    "age": "17",
+    "updatedAt": "2022-12-02T11:58:03.463Z"
+}
+2022-12-02 17:28:06 INFO  UsersRestAPI:74 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-02 17:31:15 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-02 17:31:22 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusC",
+    "salary": "30134",
+    "age": "37",
+    "updatedAt": "2022-12-02T12:01:19.691Z"
+}
+2022-12-02 17:31:22 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-02 17:59:02 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-02 17:59:09 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusM",
+    "salary": "68570",
+    "age": "08",
+    "updatedAt": "2022-12-02T12:29:06.485Z"
+}
+2022-12-02 17:59:09 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-02 18:00:49 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-02 18:01:01 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-02 18:01:01 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-02 18:01:01 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-02 18:01:01 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-02 18:01:01 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-02 18:01:01 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-02 18:01:01 INFO  UsersRestAPI:41 - Response time is =7774
+2022-12-02 18:01:01 WARN  UsersRestAPI:43 - Response time is greater than 2000
+2022-12-02 18:01:01 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-02 18:01:01 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-02 18:01:01 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-02 18:01:01 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-05 10:59:10 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:00:49 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-05 11:01:04 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusW",
+    "salary": "87909",
+    "age": "40",
+    "updatedAt": "2022-12-05T05:31:00.911Z"
+}
+2022-12-05 11:01:05 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-05 11:06:55 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:08:51 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:09:01 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 11:10:29 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:11:43 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:14:59 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:15:09 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 11:15:09 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 11:15:09 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 11:15:09 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 11:15:09 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 11:15:09 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 11:15:09 INFO  UsersRestAPI:50 - Response time is =528
+2022-12-05 11:15:09 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 11:15:09 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 11:15:09 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 11:15:09 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 11:18:20 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:18:27 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 11:18:27 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 11:18:27 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 11:18:27 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 11:18:27 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 11:18:27 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 11:18:27 INFO  UsersRestAPI:50 - Response time is =578
+2022-12-05 11:18:27 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 11:18:27 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 11:18:27 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 11:18:27 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 11:20:08 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:22:08 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:23:33 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:27:28 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 11:27:28 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 11:27:31 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 11:27:31 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 11:27:32 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 11:27:32 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 11:28:22 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 11:28:28 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 11:28:28 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 11:28:28 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 11:28:28 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 11:28:28 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 11:28:28 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 11:28:28 INFO  UsersRestAPI:50 - Response time is =526
+2022-12-05 11:28:28 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 11:28:28 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 11:28:28 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 11:28:28 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 12:01:54 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 12:01:57 INFO  UsersRestAPI:73 - ***********checkContentEncoding******** 
+2022-12-05 12:01:57 INFO  UsersRestAPI:75 - Content Encoding is =gzip
+2022-12-05 12:01:57 INFO  UsersRestAPI:57 - ***********checkContentType******** 
+2022-12-05 12:01:57 INFO  UsersRestAPI:59 - Content type is =application/json; charset=utf-8
+2022-12-05 12:01:57 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-05 12:01:58 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 12:01:58 INFO  UsersRestAPI:42 - Response time is =1393
+2022-12-05 12:01:58 INFO  UsersRestAPI:65 - ***********checkServerType******** 
+2022-12-05 12:01:58 INFO  UsersRestAPI:67 - Server type is =cloudflare
+2022-12-05 12:01:58 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-05 12:01:58 INFO  UsersRestAPI:92 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-05 12:01:58 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-05 12:01:59 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-05 12:01:59 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-05 12:01:59 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-05 12:01:59 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-05 12:01:59 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-05 12:01:59 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 12:01:59 INFO  UsersRestAPI:41 - Response time is =1287
+2022-12-05 12:01:59 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-05 12:01:59 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-05 12:01:59 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-05 12:01:59 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-05 12:01:59 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-05 12:02:03 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusv",
+    "salary": "65209",
+    "age": "22",
+    "id": "693",
+    "createdAt": "2022-12-05T06:31:59.667Z"
+}
+2022-12-05 12:02:03 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-05 12:02:03 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-05 12:02:06 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusS",
+    "salary": "35262",
+    "age": "22",
+    "updatedAt": "2022-12-05T06:32:02.421Z"
+}
+2022-12-05 12:02:06 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-05 12:02:06 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 12:02:08 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 12:02:08 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 12:02:08 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 12:02:08 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 12:02:08 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 12:02:08 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 12:02:08 INFO  UsersRestAPI:50 - Response time is =642
+2022-12-05 12:02:08 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 12:02:08 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 12:02:08 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 12:02:08 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 16:05:41 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 16:05:49 INFO  UsersRestAPI:73 - ***********checkContentEncoding******** 
+2022-12-05 16:05:49 INFO  UsersRestAPI:75 - Content Encoding is =gzip
+2022-12-05 16:07:32 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 16:07:38 INFO  UsersRestAPI:73 - ***********checkContentEncoding******** 
+2022-12-05 16:07:38 INFO  UsersRestAPI:75 - Content Encoding is =gzip
+2022-12-05 16:07:38 INFO  UsersRestAPI:57 - ***********checkContentType******** 
+2022-12-05 16:07:38 INFO  UsersRestAPI:59 - Content type is =application/json; charset=utf-8
+2022-12-05 16:07:38 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-05 16:07:38 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:07:38 INFO  UsersRestAPI:42 - Response time is =2659
+2022-12-05 16:07:38 WARN  UsersRestAPI:44 - Response time is greater than 2000
+2022-12-05 16:07:38 INFO  UsersRestAPI:65 - ***********checkServerType******** 
+2022-12-05 16:07:38 INFO  UsersRestAPI:67 - Server type is =cloudflare
+2022-12-05 16:07:38 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-05 16:07:39 INFO  UsersRestAPI:92 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-05 16:07:39 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-05 16:07:39 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:07:39 INFO  UsersRestAPI:41 - Response time is =344
+2022-12-05 16:07:39 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-05 16:07:39 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-05 16:07:39 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-05 16:07:39 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-05 16:07:42 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusJ",
+    "salary": "63727",
+    "age": "70",
+    "id": "413",
+    "createdAt": "2022-12-05T10:37:39.375Z"
+}
+2022-12-05 16:07:42 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-05 16:07:42 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-05 16:07:45 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusF",
+    "salary": "39153",
+    "age": "54",
+    "updatedAt": "2022-12-05T10:37:42.169Z"
+}
+2022-12-05 16:07:45 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-05 16:07:45 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 16:07:47 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 16:07:47 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 16:07:47 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 16:07:47 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 16:07:47 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 16:07:47 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 16:07:47 INFO  UsersRestAPI:50 - Response time is =559
+2022-12-05 16:07:47 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 16:07:47 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 16:07:47 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 16:07:47 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 16:39:35 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 16:39:41 INFO  UsersRestAPI:73 - ***********checkContentEncoding******** 
+2022-12-05 16:39:41 INFO  UsersRestAPI:75 - Content Encoding is =gzip
+2022-12-05 16:45:25 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 16:45:30 INFO  UsersRestAPI:73 - ***********checkContentEncoding******** 
+2022-12-05 16:45:30 INFO  UsersRestAPI:75 - Content Encoding is =gzip
+2022-12-05 16:45:30 INFO  UsersRestAPI:57 - ***********checkContentType******** 
+2022-12-05 16:45:30 INFO  UsersRestAPI:59 - Content type is =application/json; charset=utf-8
+2022-12-05 16:45:30 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:45:31 INFO  UsersRestAPI:42 - Response time is =2207
+2022-12-05 16:45:31 WARN  UsersRestAPI:44 - Response time is greater than 2000
+2022-12-05 16:45:31 INFO  UsersRestAPI:65 - ***********checkServerType******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:67 - Server type is =cloudflare
+2022-12-05 16:45:31 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-05 16:45:31 INFO  UsersRestAPI:92 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-05 16:45:31 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-05 16:45:31 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:45:31 INFO  UsersRestAPI:41 - Response time is =315
+2022-12-05 16:45:31 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-05 16:45:31 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-05 16:45:31 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-05 16:45:31 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-05 16:45:34 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusK",
+    "salary": "46559",
+    "age": "46",
+    "id": "869",
+    "createdAt": "2022-12-05T11:15:31.553Z"
+}
+2022-12-05 16:45:34 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-05 16:45:34 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-05 16:45:37 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusG",
+    "salary": "68575",
+    "age": "14",
+    "updatedAt": "2022-12-05T11:15:34.390Z"
+}
+2022-12-05 16:45:37 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-05 16:45:37 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 16:45:39 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 16:45:39 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 16:45:39 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 16:45:39 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 16:45:39 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 16:45:39 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 16:45:39 INFO  UsersRestAPI:50 - Response time is =981
+2022-12-05 16:45:39 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 16:45:39 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 16:45:39 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 16:45:39 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 16:55:29 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 16:55:39 INFO  UsersRestAPI:73 - ***********checkContentEncoding******** 
+2022-12-05 16:55:39 INFO  UsersRestAPI:75 - Content Encoding is =gzip
+2022-12-05 16:55:39 INFO  UsersRestAPI:57 - ***********checkContentType******** 
+2022-12-05 16:55:39 INFO  UsersRestAPI:59 - Content type is =application/json; charset=utf-8
+2022-12-05 16:55:39 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:55:40 INFO  UsersRestAPI:42 - Response time is =3284
+2022-12-05 16:55:40 WARN  UsersRestAPI:44 - Response time is greater than 2000
+2022-12-05 16:55:40 INFO  UsersRestAPI:65 - ***********checkServerType******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:67 - Server type is =cloudflare
+2022-12-05 16:55:40 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-05 16:55:40 INFO  UsersRestAPI:92 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-05 16:55:40 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-05 16:55:40 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:55:40 INFO  UsersRestAPI:41 - Response time is =543
+2022-12-05 16:55:40 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-05 16:55:40 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-05 16:55:41 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-05 16:55:41 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-05 16:55:41 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-05 16:55:43 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusk",
+    "salary": "63243",
+    "age": "72",
+    "id": "894",
+    "createdAt": "2022-12-05T11:25:40.847Z"
+}
+2022-12-05 16:55:43 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-05 16:55:43 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-05 16:55:47 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusE",
+    "salary": "36738",
+    "age": "55",
+    "updatedAt": "2022-12-05T11:25:44.311Z"
+}
+2022-12-05 16:55:47 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-05 16:55:47 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 16:55:51 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 16:55:51 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 16:55:51 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 16:55:51 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 16:55:51 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 16:55:51 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 16:55:52 INFO  UsersRestAPI:50 - Response time is =1917
+2022-12-05 16:55:52 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 16:55:52 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 16:55:52 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 16:55:52 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-05 16:57:47 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-05 16:57:53 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 16:57:53 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-05 16:57:53 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 16:57:53 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-05 16:57:53 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-05 16:57:53 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:57:54 INFO  UsersRestAPI:42 - Response time is =2247
+2022-12-05 16:57:54 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 16:57:54 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-05 16:57:54 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-05 16:57:54 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-05 16:57:54 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-05 16:57:54 INFO  UsersRestAPI:41 - Response time is =201
+2022-12-05 16:57:54 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-05 16:57:54 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-05 16:57:54 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-05 16:57:54 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-05 16:57:57 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusa",
+    "salary": "72052",
+    "age": "05",
+    "id": "440",
+    "createdAt": "2022-12-05T11:27:54.374Z"
+}
+2022-12-05 16:57:57 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-05 16:57:57 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-05 16:57:59 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusL",
+    "salary": "34481",
+    "age": "37",
+    "updatedAt": "2022-12-05T11:27:56.987Z"
+}
+2022-12-05 16:57:59 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-05 16:57:59 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-05 16:58:02 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-05 16:58:02 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-05 16:58:02 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-05 16:58:02 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-05 16:58:02 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-05 16:58:02 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-05 16:58:02 INFO  UsersRestAPI:50 - Response time is =470
+2022-12-05 16:58:02 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-05 16:58:02 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-05 16:58:02 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-05 16:58:02 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-06 10:59:57 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-06 11:00:01 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-06 11:00:01 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 11:00:01 INFO  UsersRestAPI:42 - Response time is =1369
+2022-12-06 11:00:01 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 11:00:01 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-06 11:00:01 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-06 11:00:01 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-06 11:00:01 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 11:00:01 INFO  UsersRestAPI:41 - Response time is =356
+2022-12-06 11:00:01 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-06 11:00:01 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-06 11:00:01 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-06 11:00:01 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-06 11:00:04 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusu",
+    "salary": "15604",
+    "age": "37",
+    "id": "114",
+    "createdAt": "2022-12-06T05:30:02.019Z"
+}
+2022-12-06 11:00:04 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-06 11:00:04 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-06 11:00:07 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusM",
+    "salary": "29362",
+    "age": "05",
+    "updatedAt": "2022-12-06T05:30:04.662Z"
+}
+2022-12-06 11:00:07 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-06 11:00:07 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-06 11:00:08 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 11:00:08 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-06 11:00:08 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 11:00:08 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-06 11:00:08 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-06 11:00:08 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-06 11:00:08 INFO  UsersRestAPI:50 - Response time is =470
+2022-12-06 11:00:08 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 11:00:08 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 11:00:08 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-06 11:00:08 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-06 11:01:11 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-06 11:01:15 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-06 11:01:15 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 11:01:15 INFO  UsersRestAPI:42 - Response time is =1367
+2022-12-06 11:01:15 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 11:01:15 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-06 11:01:15 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-06 11:01:15 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-06 11:01:15 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 11:01:15 INFO  UsersRestAPI:41 - Response time is =275
+2022-12-06 11:01:15 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-06 11:01:15 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-06 11:01:15 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-06 11:01:15 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-06 11:01:18 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusb",
+    "salary": "97661",
+    "age": "71",
+    "id": "491",
+    "createdAt": "2022-12-06T05:31:16.216Z"
+}
+2022-12-06 11:01:18 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-06 11:01:18 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-06 11:01:21 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheuse",
+    "salary": "72036",
+    "age": "28",
+    "updatedAt": "2022-12-06T05:31:18.849Z"
+}
+2022-12-06 11:01:21 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-06 11:01:21 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-06 11:01:23 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 11:01:23 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-06 11:01:23 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 11:01:23 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-06 11:01:23 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-06 11:01:23 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-06 11:01:23 INFO  UsersRestAPI:50 - Response time is =552
+2022-12-06 11:01:23 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 11:01:23 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 11:01:23 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-06 11:01:23 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-06 12:02:44 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-06 12:02:52 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 12:02:52 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-06 12:02:52 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 12:02:52 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-06 12:02:52 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-06 12:02:52 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 12:02:52 INFO  UsersRestAPI:42 - Response time is =5657
+2022-12-06 12:02:52 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 12:02:52 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 12:02:52 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-06 12:02:52 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-06 12:02:52 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-06 12:02:54 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-06 12:02:54 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-06 12:02:54 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-06 12:02:54 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-06 12:02:54 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-06 12:02:54 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 12:02:54 INFO  UsersRestAPI:41 - Response time is =1732
+2022-12-06 12:02:54 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-06 12:02:54 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-06 12:02:54 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-06 12:02:54 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-06 12:02:54 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-06 12:02:57 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusn",
+    "salary": "39856",
+    "age": "05",
+    "id": "199",
+    "createdAt": "2022-12-06T06:32:54.951Z"
+}
+2022-12-06 12:02:57 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-06 12:02:57 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-06 12:03:00 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheust",
+    "salary": "79902",
+    "age": "68",
+    "updatedAt": "2022-12-06T06:32:58.245Z"
+}
+2022-12-06 12:03:00 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-06 12:03:00 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-06 12:03:05 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 12:03:05 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-06 12:03:05 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 12:03:05 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-06 12:03:05 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-06 12:03:05 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-06 12:03:05 INFO  UsersRestAPI:50 - Response time is =1545
+2022-12-06 12:03:05 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 12:03:05 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 12:03:05 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-06 12:03:05 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-06 12:39:52 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-06 12:39:55 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 12:39:55 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-06 12:39:55 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 12:39:55 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-06 12:39:55 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 12:39:56 INFO  UsersRestAPI:42 - Response time is =1169
+2022-12-06 12:39:56 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 12:39:56 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-06 12:39:56 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-06 12:39:56 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-06 12:39:56 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 12:39:56 INFO  UsersRestAPI:41 - Response time is =543
+2022-12-06 12:39:56 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-06 12:39:56 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-06 12:39:56 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-06 12:39:56 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-06 12:39:59 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusk",
+    "salary": "25614",
+    "age": "55",
+    "id": "333",
+    "createdAt": "2022-12-06T07:09:57.100Z"
+}
+2022-12-06 12:39:59 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-06 12:39:59 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-06 12:40:01 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusI",
+    "salary": "15779",
+    "age": "23",
+    "updatedAt": "2022-12-06T07:09:59.684Z"
+}
+2022-12-06 12:40:01 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-06 12:40:02 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-06 12:40:03 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 12:40:03 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-06 12:40:03 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 12:40:03 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-06 12:40:03 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-06 12:40:03 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-06 12:40:03 INFO  UsersRestAPI:50 - Response time is =508
+2022-12-06 12:40:03 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 12:40:03 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 12:40:03 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-06 12:40:03 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-06 15:25:18 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-06 15:25:23 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 15:25:23 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-06 15:25:23 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 15:25:23 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-06 15:25:23 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-06 15:25:23 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 15:25:23 INFO  UsersRestAPI:42 - Response time is =821
+2022-12-06 15:25:23 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 15:25:23 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 15:25:23 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-06 15:25:23 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-06 15:25:23 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-06 15:25:24 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-06 15:25:24 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-06 15:25:24 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-06 15:25:24 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-06 15:25:24 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-06 15:25:24 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-06 15:25:24 INFO  UsersRestAPI:41 - Response time is =274
+2022-12-06 15:25:24 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-06 15:25:24 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-06 15:25:24 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-06 15:25:24 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-06 15:25:24 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-06 15:25:26 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusD",
+    "salary": "14738",
+    "age": "19",
+    "id": "914",
+    "createdAt": "2022-12-06T09:55:24.151Z"
+}
+2022-12-06 15:25:26 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-06 15:25:26 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-06 15:25:29 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusM",
+    "salary": "76215",
+    "age": "12",
+    "updatedAt": "2022-12-06T09:55:26.668Z"
+}
+2022-12-06 15:25:29 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-06 15:25:29 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-06 15:25:30 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-06 15:25:30 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-06 15:25:30 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-06 15:25:30 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-06 15:25:30 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-06 15:25:30 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-06 15:25:30 INFO  UsersRestAPI:50 - Response time is =466
+2022-12-06 15:25:30 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-06 15:25:30 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-06 15:25:30 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-06 15:25:30 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 11:45:10 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 11:45:13 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 11:45:13 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 11:45:13 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 11:45:13 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 11:45:13 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 11:45:14 INFO  UsersRestAPI:42 - Response time is =932
+2022-12-08 11:45:14 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 11:45:14 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 11:45:14 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 11:45:14 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 11:45:14 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 11:45:14 INFO  UsersRestAPI:41 - Response time is =263
+2022-12-08 11:45:14 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 11:45:14 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 11:45:14 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 11:45:14 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 11:45:17 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusm",
+    "salary": "49920",
+    "age": "13",
+    "id": "454",
+    "createdAt": "2022-12-08T06:15:14.330Z"
+}
+2022-12-08 11:45:17 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 11:45:17 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 11:45:19 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusM",
+    "salary": "66355",
+    "age": "69",
+    "updatedAt": "2022-12-08T06:15:16.870Z"
+}
+2022-12-08 11:45:19 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 11:45:19 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 11:45:21 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 11:45:21 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 11:45:21 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 11:45:21 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 11:45:21 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 11:45:21 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 11:45:21 INFO  UsersRestAPI:50 - Response time is =555
+2022-12-08 11:45:21 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 11:45:21 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 11:45:21 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 11:45:21 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 11:49:31 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 11:49:35 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 11:49:35 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 11:49:35 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 11:49:35 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 11:49:35 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 11:49:35 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 11:49:35 INFO  UsersRestAPI:42 - Response time is =1460
+2022-12-08 11:49:35 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 11:49:35 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 11:49:35 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 11:49:35 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 11:49:35 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 11:49:36 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 11:49:36 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 11:49:36 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 11:49:36 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 11:49:36 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 11:49:36 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 11:49:36 INFO  UsersRestAPI:41 - Response time is =1537
+2022-12-08 11:49:36 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 11:49:36 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 11:49:36 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 11:49:36 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 11:49:36 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 11:49:39 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusB",
+    "salary": "66977",
+    "age": "07",
+    "id": "39",
+    "createdAt": "2022-12-08T06:19:37.094Z"
+}
+2022-12-08 11:49:39 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 11:49:39 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 11:49:42 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusA",
+    "salary": "67976",
+    "age": "63",
+    "updatedAt": "2022-12-08T06:19:39.730Z"
+}
+2022-12-08 11:49:42 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 11:49:42 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 11:49:45 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 11:49:45 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 11:49:45 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 11:49:45 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 11:49:45 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 11:49:45 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 11:49:45 INFO  UsersRestAPI:50 - Response time is =637
+2022-12-08 11:49:45 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 11:49:45 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 11:49:45 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 11:49:45 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 12:02:45 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:02:50 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:02:50 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:02:50 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:02:50 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:02:50 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:02:51 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:02:51 INFO  UsersRestAPI:42 - Response time is =2102
+2022-12-08 12:02:51 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:02:51 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:02:51 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:02:51 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:03:45 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:03:50 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:03:50 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:03:51 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:03:51 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:03:51 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:03:51 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:03:51 INFO  UsersRestAPI:42 - Response time is =2563
+2022-12-08 12:03:51 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:03:51 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:03:51 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:03:51 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:03:51 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 12:03:51 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 12:03:51 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 12:03:52 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 12:03:52 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 12:03:52 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 12:03:52 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:03:52 INFO  UsersRestAPI:41 - Response time is =207
+2022-12-08 12:03:52 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 12:03:52 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 12:03:52 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 12:03:52 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 12:03:52 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 12:03:54 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheush",
+    "salary": "70919",
+    "age": "48",
+    "id": "471",
+    "createdAt": "2022-12-08T06:33:52.133Z"
+}
+2022-12-08 12:03:55 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 12:03:55 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 12:03:57 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusI",
+    "salary": "50162",
+    "age": "93",
+    "updatedAt": "2022-12-08T06:33:54.818Z"
+}
+2022-12-08 12:03:57 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 12:03:57 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 12:03:59 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:03:59 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 12:03:59 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:03:59 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 12:03:59 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 12:03:59 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 12:04:00 INFO  UsersRestAPI:50 - Response time is =466
+2022-12-08 12:04:00 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:04:00 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:04:00 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 12:04:00 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 12:04:32 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:04:36 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:04:36 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:04:36 INFO  UsersRestAPI:42 - Response time is =1285
+2022-12-08 12:04:36 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:04:36 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:04:36 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 12:04:36 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 12:04:36 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:04:36 INFO  UsersRestAPI:41 - Response time is =199
+2022-12-08 12:04:36 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 12:04:36 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 12:04:36 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 12:04:36 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 12:04:39 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusF",
+    "salary": "42823",
+    "age": "03",
+    "id": "31",
+    "createdAt": "2022-12-08T06:34:36.826Z"
+}
+2022-12-08 12:04:39 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 12:04:39 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 12:04:42 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusL",
+    "salary": "85753",
+    "age": "90",
+    "updatedAt": "2022-12-08T06:34:39.471Z"
+}
+2022-12-08 12:04:42 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 12:04:42 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 12:04:44 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:04:44 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 12:04:44 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:04:44 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 12:04:44 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 12:04:44 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 12:04:44 INFO  UsersRestAPI:50 - Response time is =691
+2022-12-08 12:04:44 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:04:44 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:04:44 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 12:04:44 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 12:05:16 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:05:22 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:05:22 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:05:22 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:05:22 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:05:22 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:05:22 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:05:22 INFO  UsersRestAPI:42 - Response time is =2524
+2022-12-08 12:05:22 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:05:22 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:05:22 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:05:22 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:05:22 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 12:05:23 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 12:05:23 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 12:05:23 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 12:05:23 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 12:05:23 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 12:05:23 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:05:23 INFO  UsersRestAPI:41 - Response time is =254
+2022-12-08 12:05:23 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 12:05:23 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 12:05:23 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 12:05:23 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 12:05:23 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 12:05:26 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusA",
+    "salary": "06114",
+    "age": "11",
+    "id": "941",
+    "createdAt": "2022-12-08T06:35:23.458Z"
+}
+2022-12-08 12:05:26 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 12:05:26 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 12:05:29 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusw",
+    "salary": "13053",
+    "age": "60",
+    "updatedAt": "2022-12-08T06:35:26.310Z"
+}
+2022-12-08 12:05:29 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 12:05:29 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 12:05:31 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:05:31 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 12:05:31 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:05:32 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 12:05:32 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 12:05:32 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 12:05:32 INFO  UsersRestAPI:50 - Response time is =940
+2022-12-08 12:05:32 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:05:32 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:05:32 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 12:05:32 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 12:06:06 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:06:13 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:06:13 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:06:13 INFO  UsersRestAPI:42 - Response time is =2701
+2022-12-08 12:06:13 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:06:13 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:06:13 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 12:06:13 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 12:06:14 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 12:06:14 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 12:06:14 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 12:06:14 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:06:14 INFO  UsersRestAPI:41 - Response time is =278
+2022-12-08 12:06:14 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 12:06:14 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 12:06:14 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 12:06:14 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 12:06:14 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 12:06:16 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusL",
+    "salary": "44732",
+    "age": "64",
+    "id": "768",
+    "createdAt": "2022-12-08T06:36:14.085Z"
+}
+2022-12-08 12:06:16 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 12:06:16 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 12:06:19 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusP",
+    "salary": "90614",
+    "age": "25",
+    "updatedAt": "2022-12-08T06:36:16.878Z"
+}
+2022-12-08 12:06:19 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 12:06:19 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 12:06:22 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:06:22 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 12:06:22 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:06:22 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 12:06:22 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 12:06:22 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 12:06:22 INFO  UsersRestAPI:50 - Response time is =576
+2022-12-08 12:06:22 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:06:22 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:06:22 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 12:06:22 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 12:07:28 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:07:32 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:07:32 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:07:32 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:07:32 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:07:32 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:07:33 INFO  UsersRestAPI:42 - Response time is =1565
+2022-12-08 12:07:33 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:07:33 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:07:33 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 12:07:33 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 12:07:33 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:07:33 INFO  UsersRestAPI:41 - Response time is =243
+2022-12-08 12:07:33 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 12:07:33 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 12:07:33 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 12:07:33 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 12:07:36 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusM",
+    "salary": "62860",
+    "age": "38",
+    "id": "84",
+    "createdAt": "2022-12-08T06:37:33.585Z"
+}
+2022-12-08 12:07:36 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 12:07:36 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 12:07:39 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusn",
+    "salary": "34371",
+    "age": "67",
+    "updatedAt": "2022-12-08T06:37:36.283Z"
+}
+2022-12-08 12:07:39 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 12:07:39 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 12:07:41 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:07:41 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 12:07:41 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:07:41 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 12:07:41 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 12:07:41 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 12:07:41 INFO  UsersRestAPI:50 - Response time is =559
+2022-12-08 12:07:41 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:07:41 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:07:41 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 12:07:41 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 12:09:11 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 12:09:15 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:09:15 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 12:09:15 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:09:15 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 12:09:15 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 12:09:15 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:09:15 INFO  UsersRestAPI:42 - Response time is =1504
+2022-12-08 12:09:15 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:09:15 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:09:15 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 12:09:15 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 12:09:15 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 12:09:16 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 12:09:16 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 12:09:16 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 12:09:16 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 12:09:16 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 12:09:16 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 12:09:16 INFO  UsersRestAPI:41 - Response time is =250
+2022-12-08 12:09:16 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 12:09:16 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 12:09:16 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 12:09:16 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 12:09:16 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 12:09:18 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusb",
+    "salary": "00718",
+    "age": "90",
+    "id": "321",
+    "createdAt": "2022-12-08T06:39:15.992Z"
+}
+2022-12-08 12:09:18 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 12:09:18 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 12:09:21 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusM",
+    "salary": "72519",
+    "age": "35",
+    "updatedAt": "2022-12-08T06:39:18.628Z"
+}
+2022-12-08 12:09:21 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 12:09:21 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 12:09:23 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 12:09:23 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 12:09:23 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 12:09:23 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 12:09:23 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 12:09:23 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 12:09:23 INFO  UsersRestAPI:50 - Response time is =585
+2022-12-08 12:09:23 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 12:09:23 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 12:09:23 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 12:09:23 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 13:04:14 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 13:04:17 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 13:04:17 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 13:04:17 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 13:04:17 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 13:04:17 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 13:04:17 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 13:04:17 INFO  UsersRestAPI:42 - Response time is =1577
+2022-12-08 13:04:17 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 13:04:17 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 13:04:17 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 13:04:17 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 13:04:17 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 13:04:18 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 13:04:18 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 13:04:18 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 13:04:18 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 13:04:18 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 13:04:18 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 13:04:18 INFO  UsersRestAPI:41 - Response time is =449
+2022-12-08 13:04:18 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 13:04:18 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 13:04:18 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 13:04:18 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 13:04:18 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 13:04:21 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusT",
+    "salary": "52279",
+    "age": "50",
+    "id": "929",
+    "createdAt": "2022-12-08T07:34:18.645Z"
+}
+2022-12-08 13:04:21 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 13:04:21 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 13:04:24 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheust",
+    "salary": "12800",
+    "age": "64",
+    "updatedAt": "2022-12-08T07:34:21.822Z"
+}
+2022-12-08 13:04:24 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 13:04:24 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 13:04:31 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 13:04:31 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 13:04:31 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 13:04:31 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 13:04:31 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 13:04:31 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 13:04:31 INFO  UsersRestAPI:50 - Response time is =913
+2022-12-08 13:04:31 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 13:04:31 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 13:04:31 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 13:04:31 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 17:17:42 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 17:17:54 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:17:54 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 17:17:54 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:17:54 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 17:17:54 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 17:17:54 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:17:54 INFO  UsersRestAPI:42 - Response time is =8990
+2022-12-08 17:17:54 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:17:54 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:17:54 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 17:17:54 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 17:17:54 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 17:17:55 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 17:17:55 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 17:17:55 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 17:17:55 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 17:17:55 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 17:17:55 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:17:55 INFO  UsersRestAPI:41 - Response time is =575
+2022-12-08 17:17:55 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 17:17:55 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 17:17:55 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 17:17:55 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 17:17:55 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 17:17:58 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheuse",
+    "salary": "99312",
+    "age": "77",
+    "id": "463",
+    "createdAt": "2022-12-08T11:47:55.268Z"
+}
+2022-12-08 17:17:58 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 17:17:58 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 17:18:01 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusS",
+    "salary": "09855",
+    "age": "15",
+    "updatedAt": "2022-12-08T11:47:58.169Z"
+}
+2022-12-08 17:18:01 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 17:18:01 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 17:18:03 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:18:03 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 17:18:03 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:18:03 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 17:18:03 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 17:18:03 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 17:18:03 INFO  UsersRestAPI:50 - Response time is =684
+2022-12-08 17:18:03 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:18:03 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:18:03 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 17:18:03 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 17:48:00 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 17:48:04 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:48:04 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 17:48:05 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 17:48:05 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:48:05 INFO  UsersRestAPI:42 - Response time is =1377
+2022-12-08 17:48:05 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:48:05 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 17:48:05 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 17:48:05 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 17:48:05 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:48:05 INFO  UsersRestAPI:41 - Response time is =438
+2022-12-08 17:48:05 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 17:48:05 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 17:48:05 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 17:48:05 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 17:48:09 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusd",
+    "salary": "36863",
+    "age": "76",
+    "id": "455",
+    "createdAt": "2022-12-08T12:18:06.559Z"
+}
+2022-12-08 17:48:09 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 17:48:09 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 17:48:12 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusK",
+    "salary": "68536",
+    "age": "56",
+    "updatedAt": "2022-12-08T12:18:09.389Z"
+}
+2022-12-08 17:48:12 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 17:48:12 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 17:48:15 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:48:15 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 17:48:15 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:48:15 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 17:48:15 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 17:48:15 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 17:48:15 INFO  UsersRestAPI:50 - Response time is =790
+2022-12-08 17:48:15 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:48:15 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:48:15 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 17:48:15 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 17:51:30 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 17:51:34 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:51:34 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 17:51:34 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:51:34 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 17:51:34 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 17:51:34 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:51:35 INFO  UsersRestAPI:42 - Response time is =1665
+2022-12-08 17:51:35 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:51:35 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 17:51:35 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 17:51:35 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 17:51:35 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:51:35 INFO  UsersRestAPI:41 - Response time is =470
+2022-12-08 17:51:35 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 17:51:35 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 17:51:35 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 17:51:35 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 17:51:39 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusV",
+    "salary": "70123",
+    "age": "86",
+    "id": "456",
+    "createdAt": "2022-12-08T12:21:35.520Z"
+}
+2022-12-08 17:51:39 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 17:51:39 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 17:51:42 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusb",
+    "salary": "03539",
+    "age": "13",
+    "updatedAt": "2022-12-08T12:21:38.956Z"
+}
+2022-12-08 17:51:42 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 17:51:42 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 17:51:45 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:51:45 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 17:51:45 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:51:45 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 17:51:45 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 17:51:45 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 17:51:45 INFO  UsersRestAPI:50 - Response time is =901
+2022-12-08 17:51:45 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:51:45 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:51:45 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 17:51:45 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 17:58:53 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 17:59:01 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 17:59:01 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:59:01 INFO  UsersRestAPI:42 - Response time is =3123
+2022-12-08 17:59:01 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:59:01 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 17:59:01 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 17:59:01 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 17:59:01 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 17:59:01 INFO  UsersRestAPI:41 - Response time is =431
+2022-12-08 17:59:01 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 17:59:01 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 17:59:01 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 17:59:01 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 17:59:02 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 17:59:04 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusP",
+    "salary": "47903",
+    "age": "27",
+    "id": "882",
+    "createdAt": "2022-12-08T12:29:01.709Z"
+}
+2022-12-08 17:59:04 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 17:59:04 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 17:59:07 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusi",
+    "salary": "79481",
+    "age": "51",
+    "updatedAt": "2022-12-08T12:29:04.537Z"
+}
+2022-12-08 17:59:07 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 17:59:07 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 17:59:10 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 17:59:10 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 17:59:10 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 17:59:10 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 17:59:10 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 17:59:10 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 17:59:10 INFO  UsersRestAPI:50 - Response time is =954
+2022-12-08 17:59:10 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 17:59:10 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 17:59:10 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 17:59:10 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
+2022-12-08 18:18:47 INFO  UsersRestAPI:16 - ***********Started TC001_Get_ListUsers******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:76 - Content Encoding is =gzip
+2022-12-08 18:18:51 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:60 - Content type is =application/json; charset=utf-8
+2022-12-08 18:18:51 INFO  UsersRestAPI:24 - ***********checkResponseBody******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:26 - Response body ==>{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 18:18:51 INFO  UsersRestAPI:42 - Response time is =1670
+2022-12-08 18:18:51 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 18:18:51 INFO  UsersRestAPI:34 - Status code is =200
+2022-12-08 18:18:51 INFO  UsersRestAPI:93 - ***********Finished TC001_Get_ListUsers******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:15 - ***********Started TC002_Get_SingleUser******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:65 - ***********checkContentEncoding******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:67 - Content Encoding is =gzip
+2022-12-08 18:18:51 INFO  UsersRestAPI:49 - ***********checkContentType******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:51 - Content type is =application/json; charset=utf-8
+2022-12-08 18:18:51 INFO  UsersRestAPI:23 - ***********checkResponseBody******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:25 - Response body ==>{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2022-12-08 18:18:51 INFO  UsersRestAPI:41 - Response time is =408
+2022-12-08 18:18:51 INFO  UsersRestAPI:57 - ***********checkServerType******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:59 - Server type is =cloudflare
+2022-12-08 18:18:51 INFO  UsersRestAPI:33 - Status code is =200
+2022-12-08 18:18:51 INFO  UsersRestAPI:73 - ***********Finished TC002_Get_SingleUser******** 
+2022-12-08 18:18:51 INFO  UsersRestAPI:21 - *********Started TC003_Post_CreateUser**********
+2022-12-08 18:18:54 INFO  UsersRestAPI:48 - Response body ==>{
+    "name": "morpheusg",
+    "salary": "10094",
+    "age": "27",
+    "id": "223",
+    "createdAt": "2022-12-08T12:48:51.435Z"
+}
+2022-12-08 18:18:54 INFO  UsersRestAPI:74 - ***********Finished TC003_Post_CreateUser******** 
+2022-12-08 18:18:54 INFO  UsersRestAPI:21 - *********Started TC004_Put_UpdateExistingUserData**********
+2022-12-08 18:18:57 INFO  UsersRestAPI:47 - Response body ==>{
+    "name": "morpheusB",
+    "salary": "58628",
+    "age": "73",
+    "updatedAt": "2022-12-08T12:48:54.319Z"
+}
+2022-12-08 18:18:57 INFO  UsersRestAPI:73 - ***********Finished TC004_Put_UpdateExistingUserData******** 
+2022-12-08 18:18:57 INFO  UsersRestAPI:16 - *********Started TC005_Delete_UserRecord**********
+2022-12-08 18:19:00 INFO  UsersRestAPI:74 - ***********checkContentEncoding******** 
+2022-12-08 18:19:00 INFO  UsersRestAPI:76 - Content Encoding is =null
+2022-12-08 18:19:00 INFO  UsersRestAPI:58 - ***********checkContentType******** 
+2022-12-08 18:19:00 INFO  UsersRestAPI:60 - Content type is =null
+2022-12-08 18:19:00 INFO  UsersRestAPI:32 - ***********checkResponseBody******** 
+2022-12-08 18:19:00 INFO  UsersRestAPI:34 - Response body ==>
+2022-12-08 18:19:00 INFO  UsersRestAPI:50 - Response time is =940
+2022-12-08 18:19:00 INFO  UsersRestAPI:66 - ***********checkServerType******** 
+2022-12-08 18:19:00 INFO  UsersRestAPI:68 - Server type is =cloudflare
+2022-12-08 18:19:00 INFO  UsersRestAPI:42 - Status code is =204
+2022-12-08 18:19:00 INFO  UsersRestAPI:82 - ***********Finished TC005_Delete_UserRecord******** 
