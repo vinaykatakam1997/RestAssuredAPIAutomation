@@ -12,7 +12,7 @@
 			<class name="com.usersapi.testcases.TC002_Get_SingleUser" />
 			<class name="com.usersapi.testcases.TC003_Post_CreateUser" />
 			<class name="com.usersapi.testcases.TC004_Put_UpdateExistingUserData" />
-			<class name="com.usersapi.testcases.TC005_Delete_UserRecord" />
+			<!-- <class name="com.usersapi.testcases.TC005_Delete_UserRecord" /> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
